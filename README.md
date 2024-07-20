@@ -110,10 +110,14 @@ sudo su
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK" />
 </p>
 
-```
+```sh
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
+```sh
+sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root
 ```
+
+```sh
 GET ws://bugcom/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: keep-alive[crlf][crlf]
-```
+```sh
 - ***Proxy: namedomain/ip/bughost/serverssh/proxy*
