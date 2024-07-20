@@ -1,18 +1,5 @@
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK MOD SCRIPT" />
-</p> 
-
- 
-
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=nonthai-vpn">
-</p>
-<div height='45' align="center">
-<h2>Contact me: <br>
-
- 
-<h2 align="center">VPN</h2> 
+<h2 align="center">VPN BY SIAMLINK</h2> 
 
 [![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
