@@ -1,21 +1,17 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK MOD SCRIPT" />
 </p> 
 
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/nonthai-vpn/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p> 
+ 
 
 <p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
+<img height=21 src="https://komarev.com/ghpvc/?username=nonthai-vpn">
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://facebook.com/sulaiman.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<h2>Support me: <br>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-</h2>
-</div>
-</p> 
+
+ 
 <h2 align="center">VPN</h2> 
 
 [![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
@@ -93,11 +89,30 @@
 ```
 GET ws://bugcom/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: keep-alive[crlf][crlf]
 ``` 
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+SIAMLINK" />
+</p>
 # SSH Websocket Examples
 - ***Domain/IP/Host: namedomain/ip/bughost/serverssh/proxy***
 - ***SNI: bughost***
 - ***Payload:***
+
+```
+sudo su
+```
+
+2. Update VPS Script
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SIAMLINK" />
+</p>
+
+```
+apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
+```
 ```
 GET ws://bugcom/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: keep-alive[crlf][crlf]
 ```
